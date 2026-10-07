@@ -1,0 +1,10 @@
+credenciales.txt
+*.log
+__pycache__/
+*.pyc
+Adjuntos/
+resumen.md
+resumen.html
+reporte_correos.csv
+estado_resumen.json
+importantes_acumulados.json
